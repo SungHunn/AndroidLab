@@ -16,3 +16,4 @@ rootProject.name = "AndroidLab"
 include ':app'
 include ':messangerintro'
 include ':notification'
+include ':jetpack_recyclerview'

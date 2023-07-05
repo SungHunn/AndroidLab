@@ -12,6 +12,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/jetpack_recyclerview" />
             <option value="$PROJECT_DIR$/messangerintro" />
             <option value="$PROJECT_DIR$/notification" />
           </set>
