@@ -12,6 +12,7 @@ import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentActivity
 import androidx.viewpager2.adapter.FragmentStateAdapter
 import com.example.jetpack_recyclerview.databinding.ActivityMainBinding
+import com.google.android.material.tabs.TabLayoutMediator
 
 class MainActivity : AppCompatActivity() {
 
@@ -43,6 +44,11 @@ class MainActivity : AppCompatActivity() {
 
         val adapter = MyFragmentPagerAdapter(this)
         binding.viewpager.adapter = adapter
+
+        TabLayoutMediator(binding.tabs, binding.viewpager){tab, position ->
+            tab.text = "Tab ${(position + 1)}"
+
+        }.attach()
 
 
     }
