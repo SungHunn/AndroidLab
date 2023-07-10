@@ -15,6 +15,7 @@
             <option value="$PROJECT_DIR$/jetpack_recyclerview" />
             <option value="$PROJECT_DIR$/messangerintro" />
             <option value="$PROJECT_DIR$/notification" />
+            <option value="$PROJECT_DIR$/todolist" />
           </set>
         </option>
       </GradleProjectSettings>
