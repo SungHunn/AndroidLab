@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "898736486702",
+    "project_id": "kkangpractice",
+    "storage_bucket": "kkangpractice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898736486702:android:b59dda7131a25c042f22bf",
+        "android_client_info": {
+          "package_name": "com.example.firebase_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898736486702-1ha86p73gsu2das7m6soj24dkua1cfpu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase_login",
+            "certificate_hash": "3aa4c2f1a55879318e9b7d8b80c33ef564b82c2e"
+          }
+        },
+        {
+          "client_id": "898736486702-qfb621hvtc68g03b4qthhuphl3om3j1k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE7a6EwIyNyXJ4bVrYAVjRYWnzpYt_4qg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "898736486702-qfb621hvtc68g03b4qthhuphl3om3j1k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
